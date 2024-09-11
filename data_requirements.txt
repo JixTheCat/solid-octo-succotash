@@ -1,0 +1,13 @@
+feather-format
+jupyter
+matplotlib
+mysql-connector
+numpy
+openpyxl
+pandas
+pandas_stubs
+pyarrow
+rpy2
+scikit_learn
+scipy
+SQLAlchemy

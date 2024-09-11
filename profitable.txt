@@ -1,0 +1,25 @@
+CART 
+
+6091 samples
+  21 predictor
+   2 classes: '0', '1' 
+
+No pre-processing
+Resampling: Cross-Validated (10 fold, repeated 10 times) 
+Summary of sample sizes: 760, 760, 760, 761, 760, 761, ... 
+Resampling results across tuning parameters:
+
+  cp           Accuracy   Kappa     
+  0.004255319  0.6741922  0.22308157
+  0.007092199  0.6841113  0.22961731
+  0.010638298  0.6907835  0.22053842
+  0.012411348  0.6928058  0.21429370
+  0.017730496  0.6940903  0.19449349
+  0.019503546  0.6944223  0.18803858
+  0.021276596  0.6933661  0.17227947
+  0.035460993  0.6887538  0.10991886
+  0.042553191  0.6847467  0.09060392
+  0.060283688  0.6684089  0.01469664
+
+Accuracy was used to select the optimal model using the largest value.
+The final value used for the model was cp = 0.01950355.

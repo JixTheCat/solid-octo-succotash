@@ -1,0 +1,10 @@
+pandas
+sqlalchemy
+pyarrow
+IPython
+xgboost
+scikit-learn
+matplotlib
+holoviews
+bokeh
+chord

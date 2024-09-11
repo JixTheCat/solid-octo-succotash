@@ -1,0 +1,24 @@
+CART 
+
+6091 samples
+  21 predictor
+
+No pre-processing
+Resampling: Cross-Validated (10 fold, repeated 10 times) 
+Summary of sample sizes: 5482, 5482, 5482, 5482, 5482, 5482, ... 
+Resampling results across tuning parameters:
+
+  cp           RMSE      Rsquared    MAE     
+  0.005562251  259415.0  0.10133725  81407.16
+  0.006017022  259065.5  0.10187334  81559.02
+  0.006504230  258687.1  0.10197673  81786.41
+  0.010952019  256614.2  0.10141305  83835.41
+  0.011004929  256637.8  0.10128840  83866.55
+  0.015956514  254383.3  0.10295714  84320.98
+  0.017032927  253804.8  0.10509444  84304.34
+  0.017192133  253659.3  0.10515936  84293.67
+  0.024445977  253324.6  0.09451327  84908.85
+  0.048922021  259961.3  0.04539572  90123.91
+
+RMSE was used to select the optimal model using the smallest value.
+The final value used for the model was cp = 0.02444598.

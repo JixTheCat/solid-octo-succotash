@@ -1,0 +1,160 @@
+%% Copyright 2007-2020 Elsevier Ltd
+%% 
+%% This file is part of the 'Elsarticle Bundle'.
+%% ---------------------------------------------
+%% 
+%% It may be distributed under the conditions of the LaTeX Project Public
+%% License, either version 1.2 of this license or (at your option) any
+%% later version.  The latest version of this license is in
+%%    http://www.latex-project.org/lppl.txt
+%% and version 1.2 or later is part of all distributions of LaTeX
+%% version 1999/12/01 or later.
+%% 
+%% The list of all files belonging to the 'Elsarticle Bundle' is
+%% given in the file `manifest.txt'.
+%% 
+%% Template article for Elsevier's document class `elsarticle'
+%% with harvard style bibliographic references
+
+\documentclass[review,12pt,authoryear]{elsarticle}
+
+%% Use the option review to obtain double line spacing
+%% \documentclass[authoryear,preprint,review,12pt]{elsarticle}
+
+%% Use the options 1p,twocolumn; 3p; 3p,twocolumn; 5p; or 5p,twocolumn
+%% for a journal layout:
+%% \documentclass[final,1p,times,authoryear]{elsarticle}
+%% \documentclass[final,1p,times,twocolumn,authoryear]{elsarticle}
+%% \documentclass[final,3p,times,authoryear]{elsarticle}
+%% \documentclass[final,3p,times,twocolumn,authoryear]{elsarticle}
+%% \documentclass[final,5p,times,authoryear]{elsarticle}
+%% \documentclass[final,5p,times,twocolumn,authoryear]{elsarticle}
+
+%% For including figures, graphicx.sty has been loaded in
+%% elsarticle.cls. If you prefer to use the old commands
+%% please give \usepackage{epsfig}
+
+%% The amssymb package provides various useful mathematical symbols
+\usepackage{amssymb}
+%% The amsthm package provides extended theorem environments
+%% \usepackage{amsthm}
+
+%% The lineno packages adds line numbers. Start line numbering with
+%% \begin{linenumbers}, end it with \end{linenumbers}. Or switch it on
+%% for the whole article with \linenumbers.
+\usepackage{lineno}
+
+% for adjusting table width automatically
+\usepackage{adjustbox}
+\usepackage{tabulary, ragged2e}
+\usepackage{booktabs}
+\usepackage{multirow}
+
+\usepackage{csvsimple}
+\usepackage{longtable}
+\journal{Journal of Agriculture and Food Research}
+%1.Full Length Article A full-length article should be a substantial and in-depth research study regarding a particular state of issue through several techniques or approaches. 
+% The main text should be approximately 6,000 words in length, but it should not exceed 8,000 words (excluding abstract, references, tables, figures, and appendices).
+%A maximum of 250 words abstract and up to 10 displayed items (figures and tables) is allowed. A full-length article should include an Introduction,
+%Materials and methods, Results, Discussion, Conclusions, and References, which can be accompanied by Supplementary material.
+
+\begin{document}
+\begin{linenumbers}
+\begin{frontmatter}
+%% Title, authors and addresses
+%% use the tnoteref command within \title for footnotes;
+%% use the tnotetext command for theassociated footnote;
+%% use the fnref command within \author or \affiliation for footnotes;
+%% use the fntext command for theassociated footnote;
+%% use the corref command within \author for corresponding author footnotes;
+%% use the cortext command for theassociated footnote;
+%% use the ead command for the email address,
+%% and the form \ead[url] for the home page:
+%% \title{Title\tnoteref{label1}}
+%% \tnotetext[label1]{}
+%% \author{Name\corref{cor1}\fnref{label2}}
+%% \ead{email address}
+%% \ead[url]{home page}
+%% \fntext[label2]{}
+%% \cortext[cor1]{}
+%% \affiliation{organization={},
+%%            addressline={}, 
+%%            city={},
+%%            postcode={}, 
+%%            state={},
+%%            country={}}
+%% \fntext[label3]{}
+\title{An analysis of underlying relationships between factors related to operating costs and revenue in Australian vineyards.}
+%% use optional labels to link authors explicitly to addresses:
+%% \author[label1,label2]{}
+%% \affiliation[label1]{organization={},
+%%             addressline={},
+%%             city={},
+%%             postcode={},
+%%             state={},
+%%             country={}}
+%%
+%% \affiliation[label2]{organization={},
+%%             addressline={},
+%%             city={},
+%%             postcode={},
+%%             state={},
+%%             country={}}
+%\affiliation[label1]{organization={QUT},
+%  addressline={},
+%  city={},
+%  postcode={},
+%  state={QLD},
+%  country={}}
+%\affiliation[label2]{organization={AWRI},
+%  addressline={},
+%  city={},
+%  postcode={},
+%  state={SA},
+%  country={}}
+%\affiliation[label3]{organization={Food Agility CRC},
+%  addressline={},
+%  city={},
+%  postcode={},
+%  state={Vic},
+%  country={}}
+% \author[label1,label2,label3]{Author}
+% \date{02/08/2023}
+% \begin{abstract}
+% % The word limit needs to be checked.
+% When strategies for a sustainable winegrowing industry are assessed, there is a trade-off between balancing the amount of resources invested and the resultant yield and sale price of the produce. In this analysis we observe relationships between resource use, yield and sale price through the use of statistical models. The dataset used for this analysis includes data collected for the past 10 years from 1261 vineyards located over a diverse range of Australian winegrowing regions. Yield and sale price were evaluated with respect to the resource use factors water use and Green House Gas (GHG) emissions. The analysis confirmed a strong relationship between area and resource use, with the overall area of a vineyard and its access to resources greatly determining the upper limit of yield. However, area was also negatively related to the average sale price of grapes; we find that higher average sale prices were connected to high resource inputs per area, rather than to the overall expenditure of resources. Regional and temporal effects on vineyard yield and average sales price were also identified. Overall, the analysis highlighted the importance of considering a vineyard's business goal, region, external pressures and economies of scale, when considering whether to pursue higher yields or higher average sales prices.
+% \end{abstract}
+%%Graphical abstract`
+%\begin{graphicalabstract}
+ % \includegraphics{graphical_abstract.jpeg}
+%\end{graphicalabstract}'
+
+%\begin{keyword}
+%% keywords here, in the form: keyword \sep keyword
+%Keyword one \sep{} keyword two
+%% PACS codes here, in the form: \PACS code \sep code
+%\PACS{} 0000 \sep{} 1111
+%% MSC codes here, in the form: \MSC code \sep code
+%% or \MSC[2008] code \sep code (2000 is the default)
+%\MSC{} 0000 \sep{} 1111
+%\end{keyword}
+%%Research highlights
+\begin{highlights}
+
+\item The Australian wine industry is a major contributor to Australia's agricultural sector and economy.
+
+\item Linked key factors that determining vineyard operational costs and revenue through the use of XGBoost.
+
+\item Illustrates the interrelated nature of vineyard's factors and the comparative influence they have on one another.
+
+\item Connected variables to different wine regions, highlighting the complex influence of location on the use of different resources.
+
+\end{highlights}
+\end{frontmatter}
+
+\end{linenumbers}
+  \end{document}
+  
+  \endinput
+  
+  

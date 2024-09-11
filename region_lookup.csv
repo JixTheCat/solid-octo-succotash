@@ -1,0 +1,53 @@
+giregion,GI name,State,elev_Median,elev_Max,elev_Min ‡,elev_Range,rainfall_mean,temperature_mean,extreme_cold,extreme_heat,aridity
+Adelaide Hills,Adelaide Hills,SA,392.00,714.00,149.00,565.00,263,17.9,0.5,0.51,19.7
+Adelaide Plains,Adelaide Plains,SA,23.00,154.00,0.00,154.00,182,20.6,0,20.2,0.25
+Alpine Valleys,Alpine Valleys,Vic,510.00,1972.00,155.00,1817.00,549,16.9,8.7,10.7,1.11
+Barossa Valley,Barossa Valley,SA,278.00,596.00,112.00,484.00,220,19,0.9,20,0.33
+Beechworth,Beechworth,Vic,475.00,1045.00,204.00,841.00,433,17.8,6.1,10.9,0.75
+Bendigo,Bendigo,Vic,212.00,748.00,107.00,641.00,250,18.7,2.6,15.7,0.34
+Blackwood Valley,Blackwood Valley,WA,258.00,379.00,35.00,344.00,194,18.6,0.6,8.1,0.53
+Canberra District,Canberra District,NSW,644.00,1419.00,264.00,1155.00,401,17.6,8,8,0.56
+Clare Valley,Clare Valley,SA,401.00,609.00,190.00,419.00,229,19.1,2.5,17.8,0.29
+Coonawarra,Coonawarra,SA,65.00,127.00,51.00,76.00,267,17.3,3.4,17.2,0.45
+Cowra,Cowra,NSW,324.00,527.00,262.00,265.00,349,20.6,2.9,8.9,0.37
+Currency Creek,Currency Creek,SA,12.00,286.00,0.00,286.00,198,18.5,0,19.2,0.36
+Eden Valley,Eden Valley,SA,409.00,632.00,219.00,413.00,221,18.4,1.5,19.9,0.34
+Geelong,Geelong,Vic,88.00,396.00,0.00,396.00,298,17.2,0.3,15.5,0.39
+Geographe,Geographe,WA,141.00,406.00,0.00,406.00,188,19.4,0.4,7.8,0.56
+Glenrowan,Glenrowan,Vic,178.00,507.00,128.00,379.00,295,19.5,2.5,12,0.4
+Goulburn Valley,Goulburn Valley,Vic,115.00,411.00,86.00,325.00,295,19.6,1.8,13,0.32
+Grampians,Grampians,Vic,255.00,1161.00,142.00,1019.00,255,17.1,3.3,17,0.41
+Great Southern,Great Southern,WA,181.00,1083.00,0.00,1083.00,260,18,0,9.1,0.49
+Gundagai,Gundagai,NSW,345.00,1168.00,179.00,989.00,358,19.8,4.3,9.8,0.48
+Heathcote,Heathcote,Vic,210.00,599.00,112.00,487.00,280,18.5,2.7,14.2,0.38
+Henty,Henty,Vic,124.00,458.00,0.00,458.00,293,16.6,2,15.6,0.52
+Hunter Valley,Hunter Valley,NSW,337.00,1597.00,0.00,1597.00,534,20.2,0.7,8.4,0.58
+Kangaroo Island,Kangaroo Island,SA,92.00,316.00,0.00,316.00,199,17.6,0,15.7,0.39
+Langhorne Creek,Langhorne Creek,SA,13.00,64.00,0.00,64.00,171,19.2,0,18.9,0.25
+Macedon Ranges,Macedon Ranges,Vic,507.00,1013.00,211.00,802.00,353,16.2,5.4,14.7,0.6
+Margaret River,Margaret River,WA,75.00,234.00,0.00,234.00,206,18.9,0,7.4,0.67
+McLaren Vale,McLaren Vale,SA,113.00,417.00,0.00,417.00,263,18.6,0,19.5,0.44
+Mornington Peninsula,Mornington Peninsula,Vic,56.00,315.00,0.00,315.00,358,17.4,0,13.9,0.57
+Mount Benson,Mount Benson,SA,12.00,70.00,0.00,70.00,213,17.1,0,15.6,0.43
+Mudgee,Mudgee,NSW,564.00,1242.00,227.00,1015.00,448,19.5,2.4,9.2,0.48
+Murray Darling,Murray Darling,NSW,60.00,134.00,19.00,115.00,165,21.9,0.1,16.5,0.14
+Orange,Orange,NSW,835.00,1390.00,376.00,1014.00,427,18.1,8,8.8,0.53
+Padthaway,Padthaway,SA,44.00,117.00,12.00,105.00,202,17.8,4.8,19.1,0.34
+Pemberton,Pemberton,WA,147.00,317.00,6.00,311.00,287,18.2,0,8.7,0.85
+Pyrenees,Pyrenees,Vic,279.00,788.00,171.00,617.00,241,18,2.6,16.8,0.36
+Riverina,Riverina,NSW,123.00,540.00,66.00,474.00,228,21.8,0.7,14.4,0.22
+Riverland,Riverland,SA,40.00,99.00,1.00,98.00,148,21.1,0.3,16.4,0.14
+Robe,Robe,SA,6.00,68.00,0.00,68.00,223,17,0.2,15.5,0.47
+Rutherglen,Rutherglen,Vic,169.00,592.00,122.00,470.00,323,19.7,3.2,11.7,0.44
+Southern Fleurieu,Southern Fleurieu,SA,212.00,442.00,0.00,442.00,227,18,0,19,0.46
+Southern Flinders Ranges,Southern Flinders Ranges,SA,378.00,958.00,1.00,957.00,194,20.5,1.4,15,0.2
+Southern Highlands,Southern Highlands,NSW,638.00,906.00,54.00,852.00,572,18,1.3,6.6,0.72
+Strathbogie Ranges,Strathbogie Ranges,Vic,422.00,1044.00,144.00,900.00,358,17.6,3.6,12.1,0.6
+Sunbury,Sunbury,Vic,160.00,494.00,0.00,494.00,317,17.6,0.7,14.8,0.39
+Swan District,Swan District,WA,62.00,283.00,0.00,283.00,157,21.8,0,9.7,0.33
+Swan Hill,Swan Hill,Vic,72.00,129.00,47.00,82.00,183,20.8,0.5,15.8,0.19
+Tasmania,Tasmania North§,Tas,135.00,1177.00,0.00,1177.00,417.25,14.825,6.5125,7.8125,0.85375
+Tumbarumba,Tumbarumba,NSW,544.00,1290.00,209.00,1081.00,455,17.5,9.2,9.6,0.75
+Upper Goulburn,Upper Goulburn,Vic,389.00,1777.00,140.00,1637.00,422,16.9,4,12.5,0.81
+Wrattonbully,Wrattonbully,SA,89.00,145.00,41.00,104.00,229,17.5,5.2,18.3,0.38
+Yarra Valley,Yarra Valley,Vic,251.00,1338.00,17.00,1321.00,539,16.3,1.9,13.4,1.02
