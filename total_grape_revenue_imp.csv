@@ -1,22 +1,139 @@
 ,values
-area_harvested,51.0
-aridity,2.0
-extreme_heat,3.0
-tonnes_grapes_harvested,45.0
-temperature_mean,1.0
-lpg_vineyard,2.0
-water_used,4.0
-elev_Min ‡,3.0
-elev_Median,2.0
-diesel_vineyard,9.0
-insecticide_spraying_number_of_times_passes_per_year,2.0
-herbicide_spraying_number_of_times_passes_per_year,2.0
-rainfall_mean,1.0
-elev_Max,2.0
-elev_Range,5.0
-nh_disease_5.0,2.0
-cover_crops_118.5110.0,2.0
-cover_crops_134.015.0,6.0
-cover_crops_168.0,7.0
-cover_crops_7.033.025.0422.0,8.0
-cover_crops_8.079.96,2.0
+biodiesel_vineyard,1.0
+rainfall_mean,62.0
+vineyard_solar,35.0
+temperature_mean,36.0
+extreme_cold,21.0
+insecticide_spraying_number_of_times_passes_per_year,16.0
+petrol_vineyard,78.0
+diesel_vineyard,78.0
+lpg_vineyard,16.0
+slashing_number_of_times_passes_per_year,26.0
+elev_Median,16.0
+water_used,61.0
+tonnes_grapes_harvested,126.0
+fungicide_spraying_number_of_times_passes_per_year,19.0
+total_fertiliser,31.0
+extreme_heat,29.0
+elev_Min ‡,6.0
+aridity,11.0
+area_harvested,72.0
+elev_Range,8.0
+herbicide_spraying_number_of_times_passes_per_year,8.0
+giregion_Barossa Valley,6.0
+giregion_Bendigo,5.0
+giregion_Eden Valley,1.0
+giregion_Margaret River,1.0
+giregion_Padthaway,1.0
+giregion_Southern Fleurieu,4.0
+giregion_Southern Flinders Ranges,2.0
+data_year_id_2019/2020,6.0
+data_year_id_2020/2021,6.0
+data_year_id_2021/2022,13.0
+nh_disease_0.0,2.0
+nh_disease_0.0327546675401244,4.0
+nh_disease_0.1709401709401709,16.0
+nh_disease_0.4545454545454545,42.0
+cover_crops_,5.0
+cover_crops_0.0644216691068814,9.0
+cover_crops_0.06442166910688140.9355783308931186,6.0
+cover_crops_0.0909504320145520.909049567985448,4.0
+cover_crops_0.1092896174863388annual_cover_crop ,15.0
+cover_crops_0.11111111111111110.84444444444444440.1555555555555555,10.0
+cover_crops_0.11627906976744180.58139534883720930.0290697674418604,1.0
+cover_crops_0.17037387600567910.56128726928537620.04164694746805490.7283483199242783,3.0
+cover_crops_0.250.7500000000000001,16.0
+cover_crops_0.26923076923076920.7692307692307693,13.0
+cover_crops_0.3030303030303030.696969696969697,4.0
+cover_crops_0.3330.667,1.0
+cover_crops_0.38162251655629140.6183774834437086,10.0
+cover_crops_0.44102822580645160.609375,10.0
+cover_crops_0.5,2.0
+cover_crops_0.50.5,6.0
+cover_crops_0.51207920792079210.4879207920792079,4.0
+cover_crops_0.51859956236323860.4814004376367615,3.0
+cover_crops_0.52396166134185310.5239616613418531,9.0
+cover_crops_0.53864168618266980.5386416861826698,10.0
+cover_crops_0.54545454545454540.4545454545454545,2.0
+cover_crops_0.5555555555555556,4.0
+cover_crops_0.56250.5625,7.0
+cover_crops_0.6923076923076923,3.0
+cover_crops_0.69333333333333340.3066666666666666,5.0
+cover_crops_0.71428571428571430.14285714285714280.1428571428571428,5.0
+cover_crops_0.80634390651085140.3071786310517529,2.0
+cover_crops_0.9996194342255488,11.0
+cover_crops_1.0058309037900874,13.0
+cover_crops_1.037037037037037,2.0
+cover_crops_1.0654735923177652,9.0
+cover_crops_1.0655021834061136,12.0
+cover_crops_1.068649885583524,2.0
+cover_crops_1.0892857142857142,9.0
+cover_crops_1.0943396226415094,8.0
+cover_crops_1.1039501039501038,12.0
+cover_crops_1.1176470588235294,13.0
+cover_crops_1.121212121212121,4.0
+cover_crops_1.1904761904761910.1428571428571428,2.0
+cover_crops_1.2727272727272727,1.0
+cover_crops_1.28846153846153831.4807692307692308,4.0
+cover_crops_1.57487922705314020.3623188405797101,10.0
+cover_crops_1.8333333333333333,3.0
+cover_crops_2.2,16.0
+cover_crops_annual_cover_crop ,9.0
+cover_crops_annual_cover_crop permanent_cover_crop_native ,2.0
+cover_crops_bare_soil ,1.0
+cover_crops_permanent_cover_crop_native ,6.0
+cover_crops_permanent_cover_crop_non_native ,5.0
+cover_crops_permanent_cover_crop_volunteer_sward ,2.0
+irrigation_energy_0.33333333333333330.6666666666666666,9.0
+irrigation_energy_0.50.5,9.0
+irrigation_energy_0.5314437555358724,5.0
+irrigation_energy_0.5882352941176471,4.0
+irrigation_energy_0.72834831992427830.2716516800757217,8.0
+irrigation_energy_0.75,5.0
+irrigation_energy_1.0000000000000002,1.0
+irrigation_energy_1.00000000000000023.4242424242424256,14.0
+irrigation_energy_1.0121951219512195,12.0
+irrigation_energy_1.1,1.0
+irrigation_energy_diesel ,7.0
+irrigation_energy_electricity ,1.0
+irrigation_energy_electricity pressure ,7.0
+irrigation_energy_pressure ,1.0
+irrigation_type_,3.0
+irrigation_type_0.61016949152542380.3898305084745763,6.0
+irrigation_type_1.21.2,1.0
+irrigation_type_dripper ,4.0
+irrigation_type_dripper 0.4166666666666667,6.0
+water_type_,6.0
+water_type_0.055452865064695,2.0
+water_type_0.198807157057654,5.0
+water_type_0.3333333333333333,2.0
+water_type_0.4,4.0
+water_type_0.4886736002279527,13.0
+water_type_0.50.8571428571428571,6.0
+water_type_0.7222222222222222,12.0
+water_type_0.7417582417582418,5.0
+water_type_0.7692307692307692,4.0
+water_type_0.80.4,3.0
+water_type_0.8695652173913043,4.0
+water_type_0.89673913043478270.1358695652173913,8.0
+water_type_0.8970588235294117,2.0
+water_type_0.9440389294403893,1.0
+water_type_1.125,3.0
+water_type_1.25,2.0
+water_type_1.2928257686676428,1.0
+water_type_1.2999999999999998,7.0
+water_type_1.3571428571428572,29.0
+water_type_1.4285714285714286,16.0
+water_type_1.5,4.0
+water_type_1.6333333333333335,3.0
+water_type_1.8923076923076925,8.0
+water_type_1.956521739130435,6.0
+water_type_2.159827213822894,6.0
+water_type_2.3426136363636360.2675,5.0
+water_type_2.8328611898017,2.0
+water_type_3.340869565217392,1.0
+water_type_7.057291666666667,9.0
+water_type_7.2,5.0
+water_type_7.500000000000001,2.0
+water_type_recycled_water_from_other_source ,1.0
+water_type_recycled_water_from_other_source 0.25,5.0

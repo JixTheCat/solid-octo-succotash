@@ -1,35 +1,34 @@
 ,values
-area_harvested,1.0
-aridity,231.0
-extreme_heat,126.0
-temperature_mean,38.0
-extreme_cold,39.0
-elev_Min ‡,122.0
-elev_Median,34.0
-rainfall_mean,25.0
-elev_Max,357.0
-giregion_Beechworth,25.0
-giregion_Coonawarra,4.0
-giregion_Cowra,10.0
-giregion_Currency Creek,19.0
-giregion_Eden Valley,6.0
-giregion_Geelong,27.0
-giregion_Geographe,29.0
-giregion_Glenrowan,40.0
-giregion_Goulburn Valley,32.0
-giregion_Great Southern,8.0
-giregion_Gundagai,23.0
-giregion_Heathcote,27.0
-giregion_Henty,11.0
-giregion_Kangaroo Island,10.0
-giregion_Macedon Ranges,17.0
-giregion_Mount Benson,1.0
-giregion_Padthaway,14.0
-giregion_Pemberton,21.0
-giregion_Pyrenees,12.0
-giregion_Riverina,17.0
-giregion_Rutherglen,11.0
-giregion_Southern Fleurieu,33.0
-giregion_Southern Flinders Ranges,10.0
-giregion_Swan Hill,1.0
+rainfall_mean,84.0
+temperature_mean,22.0
+extreme_cold,43.0
+elev_Median,22.0
+extreme_heat,12.0
+elev_Min ‡,66.0
+aridity,18.0
+elev_Max,240.0
+giregion_Barossa Valley,8.0
+giregion_Beechworth,7.0
+giregion_Canberra District,5.0
+giregion_Coonawarra,10.0
+giregion_Cowra,17.0
+giregion_Currency Creek,3.0
+giregion_Eden Valley,8.0
+giregion_Geelong,1.0
+giregion_Geographe,14.0
+giregion_Glenrowan,25.0
+giregion_Goulburn Valley,23.0
+giregion_Great Southern,13.0
+giregion_Gundagai,7.0
+giregion_Heathcote,20.0
+giregion_Henty,20.0
+giregion_Macedon Ranges,21.0
+giregion_Padthaway,21.0
+giregion_Pemberton,8.0
+giregion_Riverina,7.0
+giregion_Rutherglen,2.0
+giregion_Southern Fleurieu,8.0
+giregion_Southern Flinders Ranges,16.0
+giregion_Strathbogie Ranges,11.0
+giregion_Swan Hill,3.0
 giregion_Wrattonbully,2.0

@@ -1,123 +1,100 @@
 ,values
-fungicide_spraying_number_of_times_passes_per_year,103.0
-area_harvested,540.0
-vineyard_solar,183.0
-aridity,97.0
-extreme_heat,121.0
-tonnes_grapes_harvested,425.0
-petrol_vineyard,273.0
-temperature_mean,160.0
-lpg_vineyard,76.0
-electricity_vineyard,152.0
-water_used,319.0
-extreme_cold,135.0
-elev_Min ‡,109.0
-slashing_number_of_times_passes_per_year,81.0
-elev_Median,51.0
-diesel_vineyard,415.0
-insecticide_spraying_number_of_times_passes_per_year,27.0
-herbicide_spraying_number_of_times_passes_per_year,99.0
-rainfall_mean,51.0
-elev_Max,108.0
-total_fertiliser,83.0
-elev_Range,72.0
-giregion_Barossa Valley,22.0
-giregion_Bendigo,5.0
-giregion_Coonawarra,31.0
-giregion_Eden Valley,10.0
-giregion_Grampians,1.0
-giregion_Margaret River,13.0
-giregion_McLaren Vale,2.0
-giregion_Padthaway,29.0
+rainfall_mean,179.0
+vineyard_solar,690.0
+temperature_mean,261.0
+extreme_cold,349.0
+insecticide_spraying_number_of_times_passes_per_year,158.0
+petrol_vineyard,1094.0
+electricity_vineyard,123.0
+diesel_vineyard,1529.0
+lpg_vineyard,234.0
+slashing_number_of_times_passes_per_year,276.0
+elev_Median,170.0
+water_used,1387.0
+tonnes_grapes_harvested,1432.0
+fungicide_spraying_number_of_times_passes_per_year,399.0
+total_fertiliser,363.0
+extreme_heat,351.0
+elev_Min ‡,259.0
+aridity,196.0
+area_harvested,1666.0
+elev_Range,258.0
+herbicide_spraying_number_of_times_passes_per_year,301.0
+elev_Max,166.0
+giregion_Barossa Valley,19.0
+giregion_Barossa Zone,2.0
+giregion_Bendigo,40.0
+giregion_Coonawarra,5.0
+giregion_Currency Creek,15.0
+giregion_Eden Valley,9.0
+giregion_Grampians,100.0
+giregion_Henty,39.0
+giregion_Hunter Valley,4.0
+giregion_Margaret River,28.0
+giregion_McLaren Vale,105.0
+giregion_Mornington Peninsula,21.0
+giregion_Mount Benson,36.0
+giregion_Other,25.0
+giregion_Padthaway,90.0
 giregion_Southern Flinders Ranges,1.0
-giregion_Swan Hill,7.0
-giregion_Wrattonbully,27.0
-cover_crops_,4.0
-cover_crops_10.0,80.0
-cover_crops_10.65.4,14.0
-cover_crops_100.0,14.0
-cover_crops_12.0,5.0
-cover_crops_13.0,27.0
-cover_crops_14.0,22.0
-cover_crops_14.014.0,8.0
-cover_crops_15.0,5.0
-cover_crops_16.0,22.0
-cover_crops_17.0,18.0
-cover_crops_19.0,56.0
-cover_crops_2.0,12.0
-cover_crops_2.010.0,9.0
-cover_crops_20.0,3.0
-cover_crops_24.0,1.0
-cover_crops_24.2,52.0
-cover_crops_25.0,3.0
-cover_crops_28.0,3.0
-cover_crops_3.5,15.0
-cover_crops_30.0,29.0
-cover_crops_32.0,20.0
-cover_crops_33.0,15.0
-cover_crops_4.0,14.0
-cover_crops_50.0,18.0
-cover_crops_56.0,1.0
-cover_crops_6.0,5.0
-cover_crops_6.010.0,7.0
-cover_crops_7.0,3.0
-cover_crops_7.75,4.0
-cover_crops_8.0,35.0
-cover_crops_9.0,12.0
-data_year_id_2012/2013,41.0
-data_year_id_2013/2014,20.0
-data_year_id_2014/2015,94.0
-data_year_id_2015/2016,37.0
-data_year_id_2016/2017,43.0
-data_year_id_2017/2018,20.0
-data_year_id_2018/2019,38.0
-data_year_id_2019/2020,29.0
-data_year_id_2020/2021,22.0
-data_year_id_2021/2022,14.0
-irrigation_type_,9.0
-irrigation_type_10.0,30.0
-irrigation_type_100.0,16.0
-irrigation_type_11.0,60.0
-irrigation_type_12.0,74.0
-irrigation_type_13.0,39.0
-irrigation_type_14.0,55.0
-irrigation_type_15.0,50.0
-irrigation_type_16.0,36.0
-irrigation_type_17.0,52.0
-irrigation_type_18.0,21.0
-irrigation_type_2.0,17.0
-irrigation_type_20.0,71.0
-irrigation_type_20.04.0,10.0
-irrigation_type_22.0,41.0
-irrigation_type_23.0,56.0
-irrigation_type_25.0,21.0
-irrigation_type_26.0,60.0
-irrigation_type_28.0,49.0
-irrigation_type_3.0,21.0
-irrigation_type_3.5,44.0
-irrigation_type_30.0,34.0
-irrigation_type_32.0,31.0
-irrigation_type_33.0,27.0
-irrigation_type_38.0,48.0
-irrigation_type_4.0,23.0
-irrigation_type_42.0,46.0
-irrigation_type_44.0,51.0
-irrigation_type_5.0,54.0
-irrigation_type_5.5,59.0
-irrigation_type_50.0,23.0
-irrigation_type_54.0,30.0
-irrigation_type_56.0,55.0
-irrigation_type_6.0,25.0
-irrigation_type_7.0,49.0
-irrigation_type_7.75,58.0
-irrigation_type_8.0,65.0
-irrigation_type_8.0non_irrigated ,12.0
-irrigation_type_80.0,14.0
-irrigation_type_9.0,60.0
-water_type_,1.0
-water_type_12.0,4.0
-water_type_125.0,1.0
-water_type_15.0,28.0
-water_type_3.0,4.0
-water_type_5.0,18.0
-water_type_7.0,7.0
+giregion_Swan Hill,46.0
+giregion_Wrattonbully,1.0
+giregion_Yarra Valley,7.0
+data_year_id_2012/2013,115.0
+data_year_id_2013/2014,118.0
+data_year_id_2014/2015,149.0
+data_year_id_2015/2016,118.0
+data_year_id_2016/2017,41.0
+data_year_id_2017/2018,77.0
+data_year_id_2018/2019,81.0
+data_year_id_2019/2020,25.0
+data_year_id_2020/2021,60.0
+data_year_id_2021/2022,93.0
+cover_crops_,52.0
+cover_crops_0.14772727272727270.8522727272727273,16.0
+cover_crops_0.16666666666666660.8333333333333334,21.0
+cover_crops_0.37203495630461920.6279650436953809,24.0
+cover_crops_0.3750.625,8.0
+cover_crops_0.5,13.0
+cover_crops_0.50.5,25.0
+cover_crops_0.67981691368788140.3201830863121185,3.0
+cover_crops_0.750.25,28.0
+cover_crops_0.80.2,12.0
+cover_crops_1.0000000000000002,55.0
+cover_crops_annual_cover_crop ,128.0
+cover_crops_annual_cover_crop permanent_cover_crop_non_native ,4.0
+cover_crops_annual_cover_crop permanent_cover_crop_volunteer_sward ,44.0
+cover_crops_bare_soil ,85.0
+cover_crops_permanent_cover_crop_native ,88.0
+cover_crops_permanent_cover_crop_non_native ,85.0
+cover_crops_permanent_cover_crop_non_native permanent_cover_crop_volunteer_sward ,1.0
+cover_crops_permanent_cover_crop_volunteer_sward ,170.0
+irrigation_type_,35.0
+irrigation_type_0.50.5,60.0
+irrigation_type_0.83333333333333340.1666666666666666,4.0
+irrigation_type_0.9999999999999998,76.0
+irrigation_type_1.0000000000000002,80.0
+irrigation_type_dripper ,368.0
+irrigation_type_overhead_sprinkler ,11.0
+irrigation_type_undervine_sprinkler ,8.0
+water_type_,10.0
+water_type_0.125,83.0
+water_type_0.5,6.0
+water_type_0.75,31.0
+water_type_0.8571428571428571,8.0
+water_type_1.1976047904191618,13.0
+water_type_1.2307692307692308,19.0
+water_type_1.25,3.0
+water_type_1.346153846153846,14.0
+water_type_1.5,54.0
+water_type_2.0,4.0
+water_type_3.0973451327433628,23.0
+water_type_5.181818181818182,9.0
+water_type_5.842696629213483,4.0
+water_type_6.8181818181818175,10.0
+water_type_8.0,18.0
+water_type_groundwater ,53.0
+water_type_other_water ,5.0
+water_type_recycled_water_from_other_source ,30.0
+water_type_river_water ,11.0
+water_type_surface_water_dam ,8.0

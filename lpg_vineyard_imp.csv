@@ -1,13 +1,4 @@
 ,values
-area_harvested,60.0
-cover_crops_104.0,60.0
-cover_crops_25.025.0,60.0
-cover_crops_57.84,60.0
-cover_crops_77.82,35.0
-irrigation_energy_233.33,60.0
-irrigation_type_209.03.0,27.0
-irrigation_type_233.0,60.0
-water_type_117.4,60.0
-water_type_145.549,27.0
-water_type_217.56.3,31.0
-water_type_472.0,60.0
+nh_disease_0.5,59.0
+cover_crops_0.14285714285714282.357142857142857,60.0
+irrigation_energy_1.2,1.0

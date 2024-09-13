@@ -1,38 +1,31 @@
 ,values
-area_harvested,17.0
-aridity,170.0
-extreme_heat,133.0
-temperature_mean,155.0
-elev_Min ‡,122.0
-elev_Median,86.0
-rainfall_mean,79.0
-elev_Max,50.0
-elev_Range,41.0
-giregion_Bendigo,36.0
-giregion_Blackwood Valley,14.0
-giregion_Clare Valley,9.0
-giregion_Cowra,7.0
-giregion_Eden Valley,4.0
-giregion_Geographe,27.0
-giregion_Glenrowan,26.0
-giregion_Goulburn Valley,13.0
-giregion_Grampians,3.0
-giregion_Great Southern,19.0
+rainfall_mean,648.0
+temperature_mean,437.0
+elev_Median,295.0
+extreme_heat,279.0
+elev_Min ‡,187.0
+aridity,58.0
+elev_Range,131.0
+elev_Max,29.0
+giregion_Barossa Valley,5.0
+giregion_Bendigo,7.0
+giregion_Blackwood Valley,5.0
+giregion_Geographe,54.0
+giregion_Glenrowan,39.0
 giregion_Gundagai,25.0
-giregion_Heathcote,13.0
-giregion_Henty,14.0
-giregion_Kangaroo Island,23.0
-giregion_Macedon Ranges,21.0
-giregion_Mornington Peninsula,16.0
-giregion_Mount Benson,15.0
-giregion_Mudgee,19.0
-giregion_Padthaway,11.0
-giregion_Pyrenees,19.0
-giregion_Rutherglen,10.0
-giregion_Southern Fleurieu,3.0
-giregion_Southern Flinders Ranges,30.0
-giregion_Strathbogie Ranges,12.0
-giregion_Swan Hill,4.0
-giregion_Tumbarumba,12.0
-giregion_Wrattonbully,23.0
+giregion_Heathcote,26.0
+giregion_Henty,16.0
+giregion_Kangaroo Island,8.0
+giregion_Macedon Ranges,44.0
+giregion_Mudgee,8.0
+giregion_Pemberton,12.0
+giregion_Pyrenees,51.0
+giregion_Riverina,9.0
+giregion_Rutherglen,30.0
+giregion_Southern Fleurieu,9.0
+giregion_Southern Flinders Ranges,8.0
+giregion_Strathbogie Ranges,15.0
+giregion_Swan District,22.0
+giregion_Swan Hill,13.0
+giregion_Tumbarumba,4.0
 giregion_Yarra Valley,4.0

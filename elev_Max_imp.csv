@@ -1,33 +1,45 @@
 ,values
-fungicide_spraying_number_of_times_passes_per_year,2.0
-area_harvested,3.0
-aridity,190.0
-extreme_heat,81.0
-temperature_mean,73.0
-extreme_cold,56.0
-elev_Min ‡,153.0
-elev_Median,105.0
-rainfall_mean,92.0
-elev_Range,340.0
-giregion_Beechworth,28.0
-giregion_Bendigo,11.0
-giregion_Blackwood Valley,4.0
-giregion_Canberra District,5.0
-giregion_Geelong,20.0
-giregion_Geographe,17.0
-giregion_Glenrowan,22.0
-giregion_Goulburn Valley,23.0
-giregion_Great Southern,5.0
-giregion_Gundagai,24.0
-giregion_Heathcote,14.0
-giregion_Henty,9.0
-giregion_Kangaroo Island,17.0
-giregion_Macedon Ranges,22.0
-giregion_Mudgee,8.0
-giregion_Padthaway,7.0
-giregion_Pemberton,17.0
-giregion_Pyrenees,42.0
-giregion_Riverina,14.0
-giregion_Rutherglen,1.0
-giregion_Southern Flinders Ranges,4.0
-giregion_Strathbogie Ranges,25.0
+rainfall_mean,502.0
+vineyard_solar,9.0
+temperature_mean,177.0
+extreme_cold,178.0
+insecticide_spraying_number_of_times_passes_per_year,3.0
+petrol_vineyard,2.0
+diesel_vineyard,3.0
+elev_Median,309.0
+water_used,50.0
+extreme_heat,77.0
+elev_Min ‡,112.0
+aridity,73.0
+area_harvested,1.0
+elev_Range,550.0
+giregion_Beechworth,42.0
+giregion_Bendigo,13.0
+giregion_Canberra District,16.0
+giregion_Geelong,7.0
+giregion_Geographe,16.0
+giregion_Glenrowan,28.0
+giregion_Goulburn Valley,42.0
+giregion_Great Southern,3.0
+giregion_Gundagai,35.0
+giregion_Henty,13.0
+giregion_Kangaroo Island,19.0
+giregion_Macedon Ranges,21.0
+giregion_Mudgee,22.0
+giregion_Padthaway,4.0
+giregion_Pyrenees,63.0
+giregion_Rutherglen,6.0
+giregion_Southern Fleurieu,14.0
+giregion_Southern Flinders Ranges,13.0
+giregion_Strathbogie Ranges,20.0
+giregion_Swan District,2.0
+nh_disease_0.2220067862336403,16.0
+cover_crops_0.85714285714285710.0357142857142857,14.0
+cover_crops_1.8483412322274884,12.0
+cover_crops_6.0,18.0
+cover_crops_permanent_cover_crop_native permanent_cover_crop_non_native permanent_cover_crop_volunteer_sward ,10.0
+irrigation_type_0.8571428571428571,4.0
+water_type_1.8750.90625,17.0
+water_type_2.857142857142857,2.0
+water_type_3.216551724137931,3.0
+water_type_river_water 1.6666666666666667,4.0

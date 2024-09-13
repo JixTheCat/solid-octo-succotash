@@ -1,4 +1,37 @@
 ,values
-nh_disease_74.24,60.0
-irrigation_energy_201.61201.61,22.0
-irrigation_type_41.0190.0,38.0
+rainfall_mean,4.0
+insecticide_spraying_number_of_times_passes_per_year,1.0
+petrol_vineyard,2.0
+diesel_vineyard,1.0
+slashing_number_of_times_passes_per_year,3.0
+fungicide_spraying_number_of_times_passes_per_year,4.0
+area_harvested,2.0
+nh_disease_0.5034965034965035,10.0
+nh_disease_0.6679863235558754,37.0
+cover_crops_0.48608137044967870.5139186295503212,15.0
+cover_crops_0.5967672266806102,3.0
+cover_crops_0.9782608695652176,1.0
+cover_crops_1.0705882352941176,1.0
+cover_crops_1.1151012891344383,7.0
+cover_crops_1.118811881188119,3.0
+cover_crops_1.1983848314606744,2.0
+cover_crops_1.2670748940178993,4.0
+cover_crops_1.53477218225419642.37410071942446,19.0
+cover_crops_1.5481171548117156,4.0
+cover_crops_1.7599999999999998,2.0
+cover_crops_3.346938775510204,2.0
+cover_crops_3.753.75,8.0
+cover_crops_8.545454545454549,9.0
+irrigation_energy_0.3305785123966942pressure ,24.0
+irrigation_energy_electricity ,1.0
+irrigation_energy_electricity solar ,3.0
+irrigation_type_1.7414330218068537,4.0
+water_type_0.1250.125,14.0
+water_type_0.30.1,8.0
+water_type_0.857142857142857,60.0
+water_type_0.9888888888888888,4.0
+water_type_1.09940119760479040.2519960079840319,6.0
+water_type_1.2857142857142858,1.0
+water_type_2.1356653829696195,14.0
+water_type_5.844320843091335,1.0
+water_type_7.571428571428571,39.0

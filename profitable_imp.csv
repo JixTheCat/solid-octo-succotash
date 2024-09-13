@@ -1,36 +1,11 @@
 ,values
-fungicide_spraying_number_of_times_passes_per_year,12.0
-area_harvested,41.0
-vineyard_solar,8.0
-aridity,19.0
-extreme_heat,29.0
-tonnes_grapes_harvested,62.0
-petrol_vineyard,22.0
-temperature_mean,2.0
-lpg_vineyard,8.0
-water_used,42.0
-extreme_cold,11.0
-elev_Min ‡,8.0
-slashing_number_of_times_passes_per_year,4.0
-elev_Median,4.0
-diesel_vineyard,67.0
-insecticide_spraying_number_of_times_passes_per_year,5.0
+rainfall_mean,25.0
+diesel_vineyard,13.0
+tonnes_grapes_harvested,82.0
+total_fertiliser,2.0
+extreme_heat,13.0
+aridity,13.0
 herbicide_spraying_number_of_times_passes_per_year,10.0
-rainfall_mean,34.0
-elev_Max,6.0
-total_fertiliser,4.0
-elev_Range,1.0
-giregion_Clare Valley,8.0
-giregion_Hunter Valley,8.0
-giregion_Margaret River,1.0
-giregion_Yarra Valley,18.0
-cover_crops_,18.0
-data_year_id_2019/2020,35.0
-data_year_id_2020/2021,9.0
-data_year_id_2021/2022,2.0
-irrigation_energy_4.0,4.0
-irrigation_energy_9.0,2.0
-irrigation_type_9.0,17.0
-water_type_15.0,8.0
-water_type_8.0,4.0
-water_type_9.0,3.0
+elev_Max,3.0
+giregion_Yarra Valley,10.0
+irrigation_energy_,9.0

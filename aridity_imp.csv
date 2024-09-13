@@ -1,32 +1,37 @@
 ,values
-fungicide_spraying_number_of_times_passes_per_year,3.0
-area_harvested,3.0
-extreme_heat,385.0
-tonnes_grapes_harvested,1.0
-temperature_mean,277.0
-extreme_cold,76.0
-elev_Min ‡,70.0
-elev_Median,120.0
-rainfall_mean,206.0
-elev_Max,66.0
-elev_Range,58.0
-giregion_Beechworth,8.0
-giregion_Bendigo,12.0
-giregion_Blackwood Valley,30.0
-giregion_Canberra District,8.0
-giregion_Clare Valley,3.0
-giregion_Cowra,12.0
-giregion_Geelong,52.0
-giregion_Glenrowan,10.0
-giregion_Goulburn Valley,60.0
-giregion_Great Southern,14.0
-giregion_Gundagai,14.0
-giregion_Heathcote,18.0
-giregion_Mount Benson,6.0
-giregion_Pemberton,27.0
-giregion_Pyrenees,9.0
-giregion_Riverina,8.0
-giregion_Southern Fleurieu,19.0
-giregion_Strathbogie Ranges,21.0
-giregion_Swan District,78.0
-giregion_Upper Goulburn,24.0
+rainfall_mean,337.0
+temperature_mean,179.0
+extreme_cold,102.0
+elev_Median,80.0
+extreme_heat,250.0
+elev_Min ‡,38.0
+elev_Range,75.0
+elev_Max,34.0
+giregion_Beechworth,37.0
+giregion_Bendigo,9.0
+giregion_Blackwood Valley,26.0
+giregion_Canberra District,12.0
+giregion_Clare Valley,1.0
+giregion_Cowra,11.0
+giregion_Currency Creek,18.0
+giregion_Geelong,51.0
+giregion_Geographe,6.0
+giregion_Glenrowan,2.0
+giregion_Goulburn Valley,52.0
+giregion_Great Southern,18.0
+giregion_Gundagai,20.0
+giregion_Heathcote,17.0
+giregion_Henty,9.0
+giregion_Kangaroo Island,17.0
+giregion_Macedon Ranges,22.0
+giregion_Mornington Peninsula,1.0
+giregion_Mount Benson,21.0
+giregion_Mudgee,4.0
+giregion_Pemberton,32.0
+giregion_Riverina,14.0
+giregion_Southern Fleurieu,21.0
+giregion_Southern Flinders Ranges,8.0
+giregion_Strathbogie Ranges,37.0
+giregion_Swan District,60.0
+giregion_Upper Goulburn,17.0
+giregion_Wrattonbully,15.0

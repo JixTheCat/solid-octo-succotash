@@ -1,40 +1,23 @@
 ,values
-area_harvested,10.0
-aridity,509.0
-temperature_mean,324.0
-extreme_cold,192.0
-elev_Min ‡,64.0
-elev_Median,104.0
-rainfall_mean,222.0
-elev_Max,60.0
-elev_Range,77.0
-giregion_Adelaide Plains,10.0
-giregion_Barossa Valley,13.0
-giregion_Beechworth,44.0
-giregion_Bendigo,7.0
-giregion_Blackwood Valley,29.0
-giregion_Canberra District,27.0
-giregion_Cowra,11.0
-giregion_Currency Creek,10.0
-giregion_Eden Valley,9.0
-giregion_Geelong,24.0
-giregion_Geographe,22.0
-giregion_Glenrowan,23.0
-giregion_Gundagai,12.0
-giregion_Heathcote,7.0
-giregion_Henty,1.0
-giregion_Kangaroo Island,32.0
-giregion_Macedon Ranges,28.0
-giregion_Margaret River,9.0
-giregion_McLaren Vale,2.0
-giregion_Mornington Peninsula,12.0
-giregion_Mount Benson,21.0
-giregion_Padthaway,6.0
-giregion_Pemberton,27.0
-giregion_Riverina,8.0
-giregion_Rutherglen,3.0
-giregion_Southern Fleurieu,8.0
-giregion_Strathbogie Ranges,38.0
-giregion_Swan District,18.0
-giregion_Swan Hill,2.0
-giregion_Yarra Valley,13.0
+rainfall_mean,1545.0
+temperature_mean,643.0
+extreme_cold,386.0
+elev_Median,73.0
+tonnes_grapes_harvested,1.0
+elev_Min ‡,42.0
+aridity,369.0
+elev_Range,154.0
+elev_Max,25.0
+giregion_Barossa Valley,7.0
+giregion_Beechworth,31.0
+giregion_Blackwood Valley,19.0
+giregion_Canberra District,35.0
+giregion_Cowra,2.0
+giregion_Currency Creek,8.0
+giregion_Gundagai,1.0
+giregion_Margaret River,1.0
+giregion_McLaren Vale,1.0
+giregion_Riverina,1.0
+giregion_Rutherglen,19.0
+giregion_Strathbogie Ranges,18.0
+giregion_Swan District,10.0

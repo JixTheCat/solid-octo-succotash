@@ -1,6 +1,7 @@
 from numpy import savetxt
 from os import listdir
 from os.path import isfile, join
+import numpy as np
 import pandas as pd
 import xgboost as xgb
 from sklearn.model_selection import train_test_split, cross_val_score, RepeatedKFold, GridSearchCV
@@ -131,9 +132,13 @@ def train_model_reg(df: pd.DataFrame, y_name: str, test_size=0.2):
     # X, y setup
     # Currently giregion is in both the predicted and predictors! You gotta fix that
     X = df.drop([y_name], axis=1)
-    X = pd.get_dummies(X)
 
     y = df[y_name]
+    y = y.replace([np.inf, -np.inf], np.nan)
+    y = y.dropna()
+
+    X = X.loc[y.index]
+    X = pd.get_dummies(X)
 
     X_train, X_test, y_train, y_test \
         = train_test_split(X, y, test_size=test_size, random_state=1)
@@ -190,9 +195,13 @@ def train_model_reg(df: pd.DataFrame, y_name: str, test_size=0.2):
 def train_model_b(df: pd.DataFrame, y_name: str):
     """Trains an XGBoosted Tree given a y variable and dataframe. """
     X = df.drop([y_name], axis=1)
-    X = pd.get_dummies(X)
 
     y = df[y_name]
+    y = y.replace([np.inf, -np.inf], np.nan)
+    y = y.dropna()
+
+    X = X.loc[y.index]
+    X = pd.get_dummies(X)
 
     X_train, X_test, y_train, y_test \
         = train_test_split(X, y, test_size=0.1)
@@ -258,7 +267,11 @@ def train_model_multi(df: pd.DataFrame, y_name: str):
     X = df[df.groupby(y_name)[y_name].transform('count')>10].copy()
 
     y = X[y_name]
+    y = y.replace([np.inf, -np.inf], np.nan)
+    y = y.dropna()
+
     y = y.cat.remove_categories(list(set(y.unique().categories) - set(y.unique())))
+    X = X.loc[y.index]
     X = X.drop([y_name], axis=1)
     X = pd.get_dummies(X)
 
@@ -323,10 +336,10 @@ def train_model_multi(df: pd.DataFrame, y_name: str):
 # Setup
 
 # If we want to do things as a ratio we just change the input file to dfa instead!
-df = pd.read_csv("dfb.csv")
+df = pd.read_csv("dfa.csv")
 
 cols = ["tonnes_grapes_harvested"
-    , "area_harvested"
+    # , "area_harvested"
     , "water_used"
     # , "total_tractor_passes"
     , "total_fertiliser"
@@ -527,8 +540,8 @@ train_model_b(df[df["profitable"].notnull()][cols + ["profitable"]]
 train_model_reg(df[df["profit"].notnull()][cols+["profit"]]
         , "profit")
 
-# train_model_reg(df[df["total_operating_costs"]!=0][cols+["total_operating_costs"]]
-                # , "total_operating_costs")
+train_model_reg(df[df["total_operating_costs"]!=0][cols+["total_operating_costs"]]
+                , "total_operating_costs")
 
 train_model_reg(df[df["total_grape_revenue"]!=0][cols+["total_grape_revenue"]]
                 , "total_grape_revenue")

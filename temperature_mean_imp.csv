@@ -1,41 +1,39 @@
 ,values
-area_harvested,23.0
-aridity,332.0
-extreme_heat,214.0
-tonnes_grapes_harvested,6.0
-extreme_cold,102.0
-elev_Min ‡,51.0
-elev_Median,68.0
-rainfall_mean,64.0
-elev_Max,87.0
-elev_Range,71.0
-giregion_Beechworth,15.0
-giregion_Bendigo,28.0
-giregion_Blackwood Valley,26.0
-giregion_Canberra District,2.0
-giregion_Clare Valley,1.0
-giregion_Cowra,22.0
-giregion_Eden Valley,13.0
-giregion_Geelong,49.0
+rainfall_mean,302.0
+vineyard_solar,1.0
+extreme_cold,182.0
+insecticide_spraying_number_of_times_passes_per_year,2.0
+elev_Median,92.0
+extreme_heat,134.0
+elev_Min ‡,25.0
+aridity,140.0
+area_harvested,3.0
+elev_Range,124.0
+elev_Max,30.0
+giregion_Beechworth,19.0
+giregion_Bendigo,26.0
+giregion_Blackwood Valley,27.0
+giregion_Cowra,19.0
+giregion_Eden Valley,10.0
+giregion_Geelong,50.0
 giregion_Geographe,31.0
-giregion_Glenrowan,17.0
-giregion_Grampians,1.0
+giregion_Glenrowan,16.0
 giregion_Great Southern,14.0
-giregion_Gundagai,33.0
-giregion_Heathcote,3.0
-giregion_Henty,36.0
-giregion_Hunter Valley,31.0
+giregion_Gundagai,35.0
+giregion_Henty,33.0
+giregion_Hunter Valley,34.0
 giregion_Kangaroo Island,47.0
-giregion_Macedon Ranges,43.0
-giregion_Margaret River,6.0
+giregion_Macedon Ranges,49.0
+giregion_Margaret River,7.0
 giregion_McLaren Vale,1.0
-giregion_Mornington Peninsula,19.0
+giregion_Mornington Peninsula,15.0
 giregion_Mount Benson,20.0
-giregion_Mudgee,7.0
-giregion_Pyrenees,42.0
-giregion_Riverina,25.0
-giregion_Rutherglen,14.0
+giregion_Mudgee,9.0
+giregion_Pemberton,6.0
+giregion_Pyrenees,40.0
+giregion_Riverina,23.0
+giregion_Rutherglen,15.0
 giregion_Southern Fleurieu,26.0
-giregion_Strathbogie Ranges,10.0
-giregion_Swan District,34.0
-giregion_Wrattonbully,11.0
+giregion_Strathbogie Ranges,13.0
+giregion_Swan District,32.0
+giregion_Wrattonbully,8.0

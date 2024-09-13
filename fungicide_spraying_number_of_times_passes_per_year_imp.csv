@@ -1,58 +1,63 @@
 ,values
-area_harvested,37.0
-vineyard_solar,5.0
-aridity,49.0
-extreme_heat,20.0
-tonnes_grapes_harvested,45.0
-petrol_vineyard,26.0
-temperature_mean,7.0
-lpg_vineyard,1.0
-water_used,25.0
-extreme_cold,13.0
-elev_Min ‡,30.0
-slashing_number_of_times_passes_per_year,82.0
-elev_Median,4.0
-diesel_vineyard,36.0
-insecticide_spraying_number_of_times_passes_per_year,67.0
-herbicide_spraying_number_of_times_passes_per_year,76.0
-rainfall_mean,19.0
-elev_Max,14.0
-total_fertiliser,1.0
-elev_Range,3.0
-giregion_Barossa Zone,2.0
-giregion_Mornington Peninsula,3.0
-giregion_Swan District,14.0
-nh_disease_5.0,18.0
-nh_disease_10.0,2.0
-cover_crops_,5.0
-cover_crops_0.116.4,2.0
-cover_crops_100.0,24.0
-cover_crops_103.42,5.0
-cover_crops_2.0,3.0
-cover_crops_25.77,3.0
-cover_crops_3.5,3.0
-cover_crops_39.69,1.0
-cover_crops_40.064.0,2.0
-cover_crops_5.0,3.0
-cover_crops_5.98,19.0
-cover_crops_63.72,2.0
-cover_crops_7.02.027.0,4.0
-cover_crops_8.0,1.0
-data_year_id_2019/2020,8.0
-data_year_id_2021/2022,25.0
-irrigation_energy_100.0,3.0
-irrigation_energy_12.0,1.0
-irrigation_energy_2.0,5.0
-irrigation_energy_38.46,2.0
-irrigation_energy_4.04,5.0
-irrigation_energy_4.4630.0,5.0
-irrigation_energy_5.0,6.0
-irrigation_type_100.0,1.0
-water_type_0.026,3.0
-water_type_10.00.04,2.0
-water_type_150.0,8.0
-water_type_2.0surface_water_dam ,4.0
-water_type_200.0,9.0
-water_type_47.0,4.0
-water_type_5.0,3.0
-water_type_86.02.0,8.0
+rainfall_mean,32.0
+vineyard_solar,20.0
+temperature_mean,28.0
+extreme_cold,15.0
+insecticide_spraying_number_of_times_passes_per_year,86.0
+petrol_vineyard,31.0
+diesel_vineyard,32.0
+lpg_vineyard,2.0
+slashing_number_of_times_passes_per_year,106.0
+elev_Median,26.0
+water_used,32.0
+tonnes_grapes_harvested,56.0
+total_fertiliser,9.0
+extreme_heat,29.0
+elev_Min ‡,18.0
+aridity,27.0
+area_harvested,42.0
+elev_Range,14.0
+herbicide_spraying_number_of_times_passes_per_year,89.0
+giregion_Barossa Zone,7.0
+giregion_Eden Valley,1.0
+giregion_King Valley,8.0
+giregion_Margaret River,1.0
+giregion_McLaren Vale,3.0
+giregion_Mornington Peninsula,2.0
+giregion_Southern Flinders Ranges,2.0
+giregion_Swan District,19.0
+data_year_id_2019/2020,10.0
+data_year_id_2020/2021,1.0
+data_year_id_2021/2022,34.0
+nh_disease_0.0201612903225806,7.0
+nh_disease_0.0833333333333333,38.0
+cover_crops_,6.0
+cover_crops_0.01689708141321040.9831029185867896,2.0
+cover_crops_0.14822134387351780.8517786561264822,1.0
+cover_crops_0.18421052631578940.05263157894736840.7105263157894737,9.0
+cover_crops_0.2001334222815210.3335557038025350.4336224149432955,4.0
+cover_crops_0.250.75,2.0
+cover_crops_0.3289473684210526,10.0
+cover_crops_0.3849485131363680.6159176210181888,7.0
+cover_crops_0.999612102404965,2.0
+cover_crops_1.0157140051070517,16.0
+cover_crops_1.1764979098931725,2.0
+cover_crops_1.1904761904761910.1428571428571428,2.0
+cover_crops_1.6666666666666667,13.0
+cover_crops_1.9148936170212765,17.0
+cover_crops_3.753.75,1.0
+cover_crops_bare_soil ,2.0
+cover_crops_permanent_cover_crop_non_native ,2.0
+irrigation_energy_0.12942542077771330.8705745792222866,22.0
+irrigation_energy_0.1333333333333333,10.0
+irrigation_energy_0.4736225087924971,16.0
+irrigation_energy_0.9244142101284958,2.0
+irrigation_energy_solar ,8.0
+irrigation_type_1.6666666666666667,27.0
+irrigation_type_dripper ,5.0
+water_type_0.3511705685618729,18.0
+water_type_0.625,2.0
+water_type_1.6406890894175552,2.0
+water_type_4.7,15.0
+water_type_groundwater ,12.0
+water_type_river_water 1.6666666666666667,7.0

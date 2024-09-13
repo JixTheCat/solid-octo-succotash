@@ -1,42 +1,37 @@
 ,values
-area_harvested,13.0
-aridity,625.0
-extreme_heat,263.0
-tonnes_grapes_harvested,3.0
-temperature_mean,184.0
-water_used,30.0
-extreme_cold,193.0
-elev_Min ‡,244.0
-rainfall_mean,293.0
-elev_Max,329.0
-elev_Range,35.0
-giregion_Barossa Valley,7.0
-giregion_Beechworth,19.0
-giregion_Bendigo,15.0
-giregion_Blackwood Valley,63.0
-giregion_Clare Valley,5.0
-giregion_Cowra,4.0
-giregion_Currency Creek,21.0
-giregion_Geelong,47.0
+rainfall_mean,947.0
+temperature_mean,224.0
+extreme_cold,207.0
+insecticide_spraying_number_of_times_passes_per_year,24.0
+water_used,5.0
+extreme_heat,142.0
+elev_Min ‡,239.0
+aridity,40.0
+elev_Range,124.0
+elev_Max,251.0
+giregion_Barossa Valley,8.0
+giregion_Beechworth,20.0
+giregion_Bendigo,14.0
+giregion_Blackwood Valley,70.0
+giregion_Clare Valley,4.0
+giregion_Cowra,10.0
+giregion_Currency Creek,17.0
+giregion_Geelong,44.0
 giregion_Geographe,26.0
-giregion_Goulburn Valley,29.0
+giregion_Goulburn Valley,25.0
 giregion_Grampians,3.0
 giregion_Great Southern,26.0
-giregion_Gundagai,13.0
-giregion_Heathcote,35.0
-giregion_Henty,3.0
-giregion_Kangaroo Island,7.0
-giregion_Macedon Ranges,31.0
-giregion_Mornington Peninsula,6.0
-giregion_Pemberton,19.0
-giregion_Pyrenees,22.0
-giregion_Riverina,16.0
-giregion_Rutherglen,4.0
-giregion_Southern Fleurieu,47.0
-giregion_Southern Flinders Ranges,25.0
-giregion_Strathbogie Ranges,14.0
-giregion_Swan Hill,14.0
-giregion_Upper Goulburn,9.0
-giregion_Wrattonbully,12.0
-cover_crops_52.2,1.0
-cover_crops_62.542,1.0
+giregion_Gundagai,12.0
+giregion_Heathcote,34.0
+giregion_Henty,9.0
+giregion_Macedon Ranges,32.0
+giregion_Mornington Peninsula,13.0
+giregion_Pemberton,21.0
+giregion_Pyrenees,24.0
+giregion_Riverina,19.0
+giregion_Southern Fleurieu,45.0
+giregion_Southern Flinders Ranges,21.0
+giregion_Strathbogie Ranges,11.0
+giregion_Swan Hill,23.0
+giregion_Upper Goulburn,7.0
+giregion_Wrattonbully,9.0

@@ -1,33 +1,30 @@
 ,values
-fungicide_spraying_number_of_times_passes_per_year,111.0
-area_harvested,150.0
-aridity,1135.0
-extreme_heat,328.0
-tonnes_grapes_harvested,71.0
-petrol_vineyard,47.0
-temperature_mean,344.0
-lpg_vineyard,15.0
-electricity_vineyard,6.0
-water_used,88.0
-extreme_cold,222.0
-elev_Min ‡,256.0
-slashing_number_of_times_passes_per_year,28.0
-elev_Median,158.0
-diesel_vineyard,87.0
-insecticide_spraying_number_of_times_passes_per_year,16.0
-herbicide_spraying_number_of_times_passes_per_year,16.0
-rainfall_mean,369.0
-elev_Max,374.0
-elev_Range,160.0
-cover_crops_16.0,4.0
-cover_crops_2.8,1.0
-cover_crops_24.2,6.0
-cover_crops_63.72,2.0
-cover_crops_9.3,24.0
-data_year_id_2012/2013,4.0
-data_year_id_2021/2022,4.0
-irrigation_energy_,23.0
-irrigation_energy_9.5,1.0
-irrigation_type_16.0,4.0
-irrigation_type_22.0,9.0
-irrigation_type_48.0,1.0
+rainfall_mean,1221.0
+vineyard_solar,8.0
+temperature_mean,437.0
+extreme_cold,191.0
+insecticide_spraying_number_of_times_passes_per_year,18.0
+petrol_vineyard,24.0
+electricity_vineyard,10.0
+diesel_vineyard,99.0
+lpg_vineyard,1.0
+slashing_number_of_times_passes_per_year,38.0
+elev_Median,333.0
+water_used,140.0
+tonnes_grapes_harvested,129.0
+fungicide_spraying_number_of_times_passes_per_year,103.0
+extreme_heat,395.0
+elev_Min ‡,110.0
+aridity,130.0
+area_harvested,132.0
+elev_Range,512.0
+herbicide_spraying_number_of_times_passes_per_year,9.0
+elev_Max,30.0
+data_year_id_2012/2013,2.0
+data_year_id_2014/2015,1.0
+data_year_id_2015/2016,1.0
+cover_crops_permanent_cover_crop_native ,4.0
+cover_crops_permanent_cover_crop_non_native ,20.0
+irrigation_energy_,7.0
+irrigation_energy_electricity ,2.0
+irrigation_energy_pressure ,13.0

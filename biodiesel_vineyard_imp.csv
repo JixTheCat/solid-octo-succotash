@@ -1,7 +1,10 @@
 ,values
-area_harvested,11.0
-cover_crops_18.4,31.0
-cover_crops_233.33,68.0
-cover_crops_460.0,81.0
-water_type_240.0,1.0
-water_type_580.0,19.0
+petrol_vineyard,15.0
+nh_disease_0.2941176470588235,28.0
+cover_crops_0.998914223669924,22.0
+cover_crops_1.034447597091683,31.0
+cover_crops_1.4838709677419355,60.0
+irrigation_type_0.73684210526315790.2631578947368421,14.0
+water_type_2.926829268292683,23.0
+water_type_7.25,30.0
+water_type_7.966356662238033,32.0
