@@ -1,0 +1,32 @@
+,values
+fungicide_spraying_number_of_times_passes_per_year,3.0
+area_harvested,3.0
+extreme_heat,385.0
+tonnes_grapes_harvested,1.0
+temperature_mean,277.0
+extreme_cold,76.0
+elev_Min ‡,70.0
+elev_Median,120.0
+rainfall_mean,206.0
+elev_Max,66.0
+elev_Range,58.0
+giregion_Beechworth,8.0
+giregion_Bendigo,12.0
+giregion_Blackwood Valley,30.0
+giregion_Canberra District,8.0
+giregion_Clare Valley,3.0
+giregion_Cowra,12.0
+giregion_Geelong,52.0
+giregion_Glenrowan,10.0
+giregion_Goulburn Valley,60.0
+giregion_Great Southern,14.0
+giregion_Gundagai,14.0
+giregion_Heathcote,18.0
+giregion_Mount Benson,6.0
+giregion_Pemberton,27.0
+giregion_Pyrenees,9.0
+giregion_Riverina,8.0
+giregion_Southern Fleurieu,19.0
+giregion_Strathbogie Ranges,21.0
+giregion_Swan District,78.0
+giregion_Upper Goulburn,24.0

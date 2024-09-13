@@ -1,0 +1,179 @@
+,values
+fungicide_spraying_number_of_times_passes_per_year,353.0
+area_harvested,32.0
+vineyard_solar,49.0
+aridity,58.0
+extreme_heat,28.0
+tonnes_grapes_harvested,129.0
+petrol_vineyard,38.0
+temperature_mean,33.0
+lpg_vineyard,16.0
+water_used,60.0
+extreme_cold,5.0
+elev_Min ‡,32.0
+slashing_number_of_times_passes_per_year,58.0
+elev_Median,1.0
+diesel_vineyard,8.0
+herbicide_spraying_number_of_times_passes_per_year,71.0
+rainfall_mean,44.0
+total_fertiliser,14.0
+elev_Range,1.0
+giregion_Barossa Zone,1.0
+giregion_Beechworth,1.0
+giregion_Clare Valley,2.0
+giregion_Goulburn Valley,39.0
+giregion_Gundagai,6.0
+giregion_Hunter Valley,3.0
+giregion_Mount Gambier,4.0
+giregion_Mudgee,16.0
+nh_disease_4.34,4.0
+nh_disease_35.71,4.0
+cover_crops_0.5277.0,5.0
+cover_crops_1.2,20.0
+cover_crops_1.54.0,5.0
+cover_crops_1.66163.35,39.0
+cover_crops_10.0,3.0
+cover_crops_10.6,7.0
+cover_crops_10.62,21.0
+cover_crops_103.91128.0,8.0
+cover_crops_12.00.5,1.0
+cover_crops_15.042.6,2.0
+cover_crops_15.14,4.0
+cover_crops_15.85,4.0
+cover_crops_155.19,4.0
+cover_crops_2.0,4.0
+cover_crops_2.010.0,1.0
+cover_crops_2.235,47.0
+cover_crops_2.715.421,20.0
+cover_crops_2.8,5.0
+cover_crops_20.02.0,63.0
+cover_crops_20.020.0,13.0
+cover_crops_21.1,36.0
+cover_crops_24.2417.52,20.0
+cover_crops_25.79,20.0
+cover_crops_262.0,54.0
+cover_crops_27.010.0,32.0
+cover_crops_3.2,1.0
+cover_crops_30.0,1.0
+cover_crops_31.1914.69,3.0
+cover_crops_39.5,1.0
+cover_crops_4.5,3.0
+cover_crops_4.831.84,3.0
+cover_crops_40.0424.0,5.0
+cover_crops_42.77,4.0
+cover_crops_42.86,18.0
+cover_crops_485.0,4.0
+cover_crops_495.0,4.0
+cover_crops_5.3,1.0
+cover_crops_5.75,35.0
+cover_crops_5.98,64.0
+cover_crops_50.54,3.0
+cover_crops_56.5,4.0
+cover_crops_590.0,10.0
+cover_crops_6.06.06.0,21.0
+cover_crops_6.0725.87,5.0
+cover_crops_6.36,21.0
+cover_crops_60.88,4.0
+cover_crops_61.033,32.0
+cover_crops_61.27,6.0
+cover_crops_61.6,19.0
+cover_crops_62.7,5.0
+cover_crops_63.77,18.0
+cover_crops_644.0,28.0
+cover_crops_69.1,4.0
+cover_crops_7.020.0,1.0
+cover_crops_7.3140.7,21.0
+cover_crops_7.96,2.0
+cover_crops_75.5,4.0
+cover_crops_8.0,1.0
+cover_crops_8.8,8.0
+cover_crops_80.5,5.0
+cover_crops_82.0,14.0
+cover_crops_85.0,1.0
+cover_crops_88.15,6.0
+cover_crops_88.98,9.0
+cover_crops_9.0,2.0
+cover_crops_bare_soil ,27.0
+cover_crops_bare_soil 0.56.50.5,20.0
+cover_crops_bare_soil 16.5,5.0
+cover_crops_bare_soil 6.0permanent_cover_crop_volunteer_sward ,10.0
+cover_crops_bare_soil 8.0,28.0
+cover_crops_permanent_cover_crop_native 3.0,1.0
+cover_crops_permanent_cover_crop_non_native ,7.0
+data_year_id_2019/2020,2.0
+data_year_id_2020/2021,9.0
+data_year_id_2021/2022,3.0
+irrigation_energy_0.6,9.0
+irrigation_energy_0.840.84,4.0
+irrigation_energy_100.0,6.0
+irrigation_energy_11.0,5.0
+irrigation_energy_12.5,1.0
+irrigation_energy_13.013.0,15.0
+irrigation_energy_13.2,1.0
+irrigation_energy_130.54,9.0
+irrigation_energy_14.06.0,19.0
+irrigation_energy_15.215.2,36.0
+irrigation_energy_16.5,1.0
+irrigation_energy_17.0,10.0
+irrigation_energy_17.8,49.0
+irrigation_energy_2.8,7.0
+irrigation_energy_27.069.0,30.0
+irrigation_energy_3.010.0,44.0
+irrigation_energy_34.83,17.0
+irrigation_energy_35.0,18.0
+irrigation_energy_36.3,5.0
+irrigation_energy_4.0,35.0
+irrigation_energy_4.5,7.0
+irrigation_energy_412.63,5.0
+irrigation_energy_5.05.0,2.0
+irrigation_energy_5.8,3.0
+irrigation_energy_590.0,29.0
+irrigation_energy_6.8,3.0
+irrigation_energy_7.0,14.0
+irrigation_energy_77.0,19.0
+irrigation_energy_8.035.5,28.0
+irrigation_energy_8.25,36.0
+irrigation_energy_8.43,27.0
+irrigation_energy_80.0,2.0
+irrigation_energy_82.0,2.0
+irrigation_energy_84.75,7.0
+irrigation_energy_90.0,2.0
+irrigation_type_,1.0
+irrigation_type_0.62432.43,70.0
+irrigation_type_16.892,4.0
+irrigation_type_18.0,11.0
+irrigation_type_19.0,1.0
+irrigation_type_22.8,4.0
+irrigation_type_7.3,6.0
+irrigation_type_77.0,15.0
+irrigation_type_8.0,2.0
+irrigation_type_85.0,2.0
+irrigation_type_90.0,8.0
+irrigation_type_dripper ,17.0
+irrigation_type_flood 7.0,20.0
+water_type_13.5,3.0
+water_type_130.0,1.0
+water_type_135.0,6.0
+water_type_16.0surface_water_dam ,14.0
+water_type_17.0,3.0
+water_type_179.1494.01.25,9.0
+water_type_18.2,12.0
+water_type_2.2,1.0
+water_type_2.34,5.0
+water_type_20.0,3.0
+water_type_28.65.8,4.0
+water_type_341.012.0,21.0
+water_type_36.03.8,4.0
+water_type_39.5,41.0
+water_type_4.0,2.0
+water_type_4.0surface_water_dam ,1.0
+water_type_4.1other_water 4.0,20.0
+water_type_47.0,1.0
+water_type_50.5,41.0
+water_type_55.0,2.0
+water_type_6.0,1.0
+water_type_6.012.0,17.0
+water_type_7.0,1.0
+water_type_750.0,33.0
+water_type_86.0,2.0
+water_type_93.136,10.0

@@ -1,0 +1,85 @@
+,values
+fungicide_spraying_number_of_times_passes_per_year,22.0
+vineyard_solar,9.0
+aridity,30.0
+extreme_heat,16.0
+biodiesel_vineyard,1.0
+tonnes_grapes_harvested,126.0
+petrol_vineyard,17.0
+temperature_mean,7.0
+lpg_vineyard,1.0
+electricity_vineyard,12.0
+water_used,65.0
+extreme_cold,5.0
+elev_Min ‡,1.0
+slashing_number_of_times_passes_per_year,2.0
+diesel_vineyard,77.0
+herbicide_spraying_number_of_times_passes_per_year,2.0
+rainfall_mean,1.0
+total_fertiliser,7.0
+elev_Range,8.0
+giregion_Barossa Valley,1.0
+giregion_Clare Valley,6.0
+giregion_Great Southern,4.0
+giregion_Gundagai,4.0
+giregion_Padthaway,2.0
+cover_crops_10.0414.020.0,1.0
+cover_crops_10.0592.0,7.0
+cover_crops_100.0,1.0
+cover_crops_101.63,6.0
+cover_crops_110.39876.75,25.0
+cover_crops_1114.0,8.0
+cover_crops_112.057.0,11.0
+cover_crops_117.02053.0,15.0
+cover_crops_145.0723.98,19.0
+cover_crops_154.0,1.0
+cover_crops_1934.0,2.0
+cover_crops_228.75,3.0
+cover_crops_245.0,2.0
+cover_crops_267.5,1.0
+cover_crops_28.0permanent_cover_crop_native 18.0449.0,2.0
+cover_crops_308.79,6.0
+cover_crops_320.0,2.0
+cover_crops_337.0,15.0
+cover_crops_385.5,8.0
+cover_crops_423.085.07.0,3.0
+cover_crops_451.2,5.0
+cover_crops_47.8,7.0
+cover_crops_5.01494.4,5.0
+cover_crops_50.020.0,16.0
+cover_crops_603.0,6.0
+cover_crops_618.0707.0,17.0
+cover_crops_630.0,5.0
+cover_crops_632.0,4.0
+cover_crops_644.0,6.0
+cover_crops_650.0,5.0
+cover_crops_8.045.0190.0,1.0
+cover_crops_permanent_cover_crop_native ,2.0
+data_year_id_2019/2020,2.0
+data_year_id_2020/2021,2.0
+irrigation_energy_,1.0
+irrigation_energy_180.0,1.0
+irrigation_energy_380.0,9.0
+irrigation_energy_382.0,17.0
+irrigation_energy_500.0,3.0
+irrigation_energy_506.0,1.0
+irrigation_energy_540.0,1.0
+irrigation_energy_591.11,4.0
+irrigation_energy_65.0258.090.0,2.0
+irrigation_energy_77.0,5.0
+irrigation_type_114.0100.0,6.0
+irrigation_type_122.0,2.0
+irrigation_type_153.08.0,6.0
+irrigation_type_212.0,4.0
+irrigation_type_243.0,7.0
+irrigation_type_266.0,1.0
+irrigation_type_430.06.0,3.0
+irrigation_type_500.0,14.0
+irrigation_type_506.0,21.0
+irrigation_type_800.0,6.0
+water_type_159.0surface_water_dam ,4.0
+water_type_1762.0,1.0
+water_type_33.3663.210.9,5.0
+water_type_4430.0,2.0
+water_type_4649.4,3.0
+water_type_747.2,2.0

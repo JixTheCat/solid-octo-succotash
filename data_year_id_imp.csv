@@ -1,0 +1,113 @@
+,values
+fungicide_spraying_number_of_times_passes_per_year,316.0
+area_harvested,214.0
+vineyard_solar,107.0
+aridity,30.0
+extreme_heat,55.0
+biodiesel_vineyard,33.0
+tonnes_grapes_harvested,430.0
+petrol_vineyard,176.0
+temperature_mean,40.0
+lpg_vineyard,58.0
+electricity_vineyard,428.0
+water_used,338.0
+extreme_cold,17.0
+elev_Min ‡,55.0
+slashing_number_of_times_passes_per_year,383.0
+elev_Median,27.0
+diesel_vineyard,225.0
+insecticide_spraying_number_of_times_passes_per_year,29.0
+herbicide_spraying_number_of_times_passes_per_year,140.0
+rainfall_mean,51.0
+elev_Max,28.0
+total_fertiliser,115.0
+elev_Range,46.0
+giregion_Barossa Valley,1.0
+giregion_Bendigo,1.0
+giregion_Canberra District,1.0
+giregion_Clare Valley,22.0
+giregion_Coonawarra,1.0
+giregion_Geelong,2.0
+giregion_Margaret River,1.0
+giregion_McLaren Vale,12.0
+giregion_Mornington Peninsula,7.0
+giregion_Padthaway,70.0
+giregion_Rutherglen,3.0
+giregion_Yarra Valley,9.0
+nh_disease_0.0,55.0
+cover_crops_,69.0
+cover_crops_10.0,5.0
+cover_crops_15.0,5.0
+cover_crops_2.0,2.0
+cover_crops_22.0,4.0
+cover_crops_23.0,2.0
+cover_crops_3.0,6.0
+cover_crops_3.03.0,4.0
+cover_crops_5.0,8.0
+cover_crops_5.2,1.0
+cover_crops_50.0,11.0
+cover_crops_7.0,1.0
+cover_crops_70.0,1.0
+cover_crops_8.0,1.0
+irrigation_energy_,383.0
+irrigation_energy_10.010.0,6.0
+irrigation_energy_12.0,2.0
+irrigation_energy_12.012.0,5.0
+irrigation_energy_13.0,3.0
+irrigation_energy_16.5,8.0
+irrigation_energy_2.0,3.0
+irrigation_energy_23.0,2.0
+irrigation_energy_3.0,4.0
+irrigation_energy_30.0,8.0
+irrigation_energy_31.0,2.0
+irrigation_energy_54.0,4.0
+irrigation_energy_8.0,4.0
+irrigation_type_,161.0
+irrigation_type_10.0,5.0
+irrigation_type_11.0,4.0
+irrigation_type_11.5,12.0
+irrigation_type_14.0,2.0
+irrigation_type_17.0,8.0
+irrigation_type_20.0,4.0
+irrigation_type_22.0,8.0
+irrigation_type_3.0,2.0
+irrigation_type_32.0,5.0
+irrigation_type_38.0,3.0
+irrigation_type_42.0,17.0
+irrigation_type_50.0,3.0
+irrigation_type_53.0,3.0
+irrigation_type_54.0,4.0
+irrigation_type_56.0,6.0
+irrigation_type_6.0,9.0
+irrigation_type_60.0,6.0
+irrigation_type_64.0,5.0
+irrigation_type_dripper ,9.0
+water_type_,18.0
+water_type_105.0,10.0
+water_type_110.0,1.0
+water_type_12.0,2.0
+water_type_17.0,11.0
+water_type_18.0,2.0
+water_type_19.0,1.0
+water_type_2.5,3.0
+water_type_20.0,1.0
+water_type_21.0,6.0
+water_type_220.0,5.0
+water_type_250.0,5.0
+water_type_30.0,3.0
+water_type_32.0,10.0
+water_type_350.0,3.0
+water_type_4.0,11.0
+water_type_40.0,4.0
+water_type_43.0,1.0
+water_type_48.0,3.0
+water_type_5.0,3.0
+water_type_50.0,10.0
+water_type_51.0,4.0
+water_type_6.0,4.0
+water_type_620.0,16.0
+water_type_650.0,6.0
+water_type_7.0,10.0
+water_type_70.0,8.0
+water_type_mains_water ,11.0
+water_type_surface_water_dam ,2.0

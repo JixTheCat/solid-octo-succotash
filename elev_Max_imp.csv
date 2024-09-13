@@ -1,0 +1,33 @@
+,values
+fungicide_spraying_number_of_times_passes_per_year,2.0
+area_harvested,3.0
+aridity,190.0
+extreme_heat,81.0
+temperature_mean,73.0
+extreme_cold,56.0
+elev_Min ‡,153.0
+elev_Median,105.0
+rainfall_mean,92.0
+elev_Range,340.0
+giregion_Beechworth,28.0
+giregion_Bendigo,11.0
+giregion_Blackwood Valley,4.0
+giregion_Canberra District,5.0
+giregion_Geelong,20.0
+giregion_Geographe,17.0
+giregion_Glenrowan,22.0
+giregion_Goulburn Valley,23.0
+giregion_Great Southern,5.0
+giregion_Gundagai,24.0
+giregion_Heathcote,14.0
+giregion_Henty,9.0
+giregion_Kangaroo Island,17.0
+giregion_Macedon Ranges,22.0
+giregion_Mudgee,8.0
+giregion_Padthaway,7.0
+giregion_Pemberton,17.0
+giregion_Pyrenees,42.0
+giregion_Riverina,14.0
+giregion_Rutherglen,1.0
+giregion_Southern Flinders Ranges,4.0
+giregion_Strathbogie Ranges,25.0

@@ -1,0 +1,36 @@
+,values
+fungicide_spraying_number_of_times_passes_per_year,4.0
+area_harvested,7.0
+aridity,333.0
+extreme_heat,117.0
+temperature_mean,178.0
+extreme_cold,183.0
+elev_Median,273.0
+rainfall_mean,47.0
+elev_Max,30.0
+elev_Range,49.0
+giregion_Barossa Valley,33.0
+giregion_Beechworth,22.0
+giregion_Bendigo,22.0
+giregion_Blackwood Valley,43.0
+giregion_Cowra,24.0
+giregion_Eden Valley,2.0
+giregion_Geographe,13.0
+giregion_Glenrowan,26.0
+giregion_Goulburn Valley,50.0
+giregion_Grampians,23.0
+giregion_Gundagai,22.0
+giregion_Heathcote,6.0
+giregion_Henty,35.0
+giregion_Hunter Valley,3.0
+giregion_Macedon Ranges,23.0
+giregion_Mudgee,2.0
+giregion_Padthaway,14.0
+giregion_Pyrenees,48.0
+giregion_Riverina,12.0
+giregion_Southern Fleurieu,8.0
+giregion_Southern Flinders Ranges,6.0
+giregion_Strathbogie Ranges,49.0
+giregion_Swan District,34.0
+giregion_Swan Hill,45.0
+giregion_Yarra Valley,2.0
